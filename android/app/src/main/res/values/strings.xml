@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FieldNav</string>
+    <string name="title_activity_main">FieldNav</string>
+    <string name="package_name">com.openclaw.fieldnav</string>
+    <string name="custom_url_scheme">com.openclaw.fieldnav</string>
+</resources>
